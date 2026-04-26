@@ -5,7 +5,6 @@
 **Revenue growth is being driven by aggressive discounting, leading to declining profit margins.**
 
 ---
----
 
 ## Objective
 
