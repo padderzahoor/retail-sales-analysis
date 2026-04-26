@@ -2,6 +2,11 @@
 
 ---
 
+**Revenue growth is being driven by aggressive discounting, leading to declining profit margins.**
+
+---
+---
+
 ## Objective
 
 This project investigates where a retail business loses margin despite growing revenue. Rather than surface-level sales reporting, the focus is on **profit leakage from loss-making products**, **discount inefficiency across order lines**, and whether the business's growth is backed by **sustainable profit or inflated by volume alone**.
